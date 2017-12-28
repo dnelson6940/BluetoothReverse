@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Reverse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="airplane_error_title">Airplane mode</string>
+    <string name="airplane_error_msg">You can\'t use Bluetooth in Aeroplane mode.</string>
+    <string name="bluetooth_pbap_client_loading">"正在努力加载中...."</string>
+    <string name="bottom_call">拨打电话</string>
+    <string name="sec">00:00</string>
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="num_x">*</string>
+    <string name="num_j">#</string>
+    <string name="num_del">Del</string>
+    <string name="num_call">Call</string>
+    <string name="str_reject">Reject</string>
+    <string name="str_accept">Accept</string>
+    <string name="str_hangup">HangUp</string>
+    <string name="str_speaker">Speaker</string>
+    <string name="str_timeout">获取通信录超时</string>
+    <string name="notification_comment">Bluetooth Music is playing.</string>
+    <string name="pbap_error">Pbap已经断开连接</string>
+    <string name="hfp_error">Hfp已经断开连接</string>
+    <string name="a2dp_error">A2dp已经断开连接</string>
+    <string name="bt_enable_ok">Turn on</string>
+    <string name="bt_enable_title"></string>
+    <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
+    <string name="bt_enable_line2">Turn on Bluetooth now?</string>
+    <string name="bt_enable_cancel">Cancel</string>
+    <string name="bt_softap_cannot_coexist">"When softap is enabled or turning on, the bluetooth can not work, if you want to use the bluetooth, please make sure that the softap is disabled."</string>
+    <string name="enabling_progress_content">Turning on Bluetooth\u2026</string>
+    <string name="enabling_progress_title">Please wait\u2026</string>
+    <string name="process" translate="false"><xliff:g id="x" /></string>
+    <string name="title_activity_out_call">OutCallActivity</string>
+    <string name="title_activity_in_call">InCallActivity</string>
+    <string name="title_activity_miss_call">MissCallActivity</string>
+
+</resources>
